@@ -1,5 +1,5 @@
-# AMLD_L2F
-Reference repository for the 2019 Applied Machine Learning Days workshop organized by [L2F – Learn to Forecast](https://www.l2f.ch/).
+# L2F_Tennis-challenge
+Reference repository for the 2019 L2F Challenge - [L2F – Learn to Forecast](https://www.l2f.ch/).
 
 Dataset based on Jeff Sackman's Match Charting Project: https://github.com/JeffSackmann/tennis_MatchChartingProject.
 
